@@ -44,7 +44,7 @@ To add your own custom styles, use the `styles.scss` file.
 
 The live version of the site, hosted on Vercel, can be viewed at the following link:
 
-[Live Demo](https://vercel.com/sandor-toths-projects/ebook-website/deployments)
+[Live Demo](https://ebook-website-khaki.vercel.app/index.html)
 
 Click on the link to view the website and explore the latest version of the project.
 
